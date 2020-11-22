@@ -13,8 +13,8 @@ function Cards() {
         <div className='cards__wrapper'>
           <ul className='cards__items'>
           <CardItem 
-              src='images/img1.jpeg'
-              text="Aurora is an Artificial Intelligence based render engine powering the Z Stream which means slow internet won't make you go crazy."
+              src="https://images.unsplash.com/photo-1604112043688-588981772f37?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NDR8fHNwYWNlc2hpcHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=500&q=60"
+"             text="Aurora is an Artificial Intelligence based render engine powering the Z Stream which means slow internet won't make you go crazy."
               label='Aurora'
               path='/Games'
           />
