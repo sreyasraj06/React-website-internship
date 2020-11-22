@@ -8,7 +8,7 @@ function HeroSection() {
 
     
     <div className='hero-container'>
-      <video src='/videos/video-1.mp4' autoPlay loop muted />
+      <video src='https://cdn.videvo.net/videvo_files/video/free/2013-08/small_watermarked/hd0933_preview.webm' autoPlay loop muted />
       <h5>Welcome to Z STREAM ,</h5><br /><br /><br /><br /><br />
       <h5>India's First cloud Gaming Platform.</h5><br /><br /><br />
       <p>Join The Game</p>
