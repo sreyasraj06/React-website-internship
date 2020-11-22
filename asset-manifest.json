@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/React-website-internship/static/css/main.993b2621.chunk.css",
+    "main.js": "/React-website-internship/static/js/main.afa293dc.chunk.js",
+    "main.js.map": "/React-website-internship/static/js/main.afa293dc.chunk.js.map",
+    "runtime-main.js": "/React-website-internship/static/js/runtime-main.c01ba54b.js",
+    "runtime-main.js.map": "/React-website-internship/static/js/runtime-main.c01ba54b.js.map",
+    "static/js/2.7ad5dd44.chunk.js": "/React-website-internship/static/js/2.7ad5dd44.chunk.js",
+    "static/js/2.7ad5dd44.chunk.js.map": "/React-website-internship/static/js/2.7ad5dd44.chunk.js.map",
+    "index.html": "/React-website-internship/index.html",
+    "static/css/main.993b2621.chunk.css.map": "/React-website-internship/static/css/main.993b2621.chunk.css.map",
+    "static/js/2.7ad5dd44.chunk.js.LICENSE.txt": "/React-website-internship/static/js/2.7ad5dd44.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c01ba54b.js",
+    "static/js/2.7ad5dd44.chunk.js",
+    "static/css/main.993b2621.chunk.css",
+    "static/js/main.afa293dc.chunk.js"
+  ]
+}
